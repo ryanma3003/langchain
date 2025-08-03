@@ -261,12 +261,12 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-advance_tool_calling.py
-conditional_logic.py
-creating_custom_tool.py
-designing_advanced_chain.py
-multi_step_reasoning_chain.py
-tool_calling.py
+#advance_tool_calling.py
+#conditional_logic.py
+#creating_custom_tool.py
+#designing_advanced_chain.py
+#multi_step_reasoning_chain.py
+#tool_calling.py
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all,python
 
